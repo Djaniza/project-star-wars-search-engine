@@ -4,8 +4,8 @@ Esse foi o projeto que encerrou o módulo de Context API e React Hooks
 do curso de desenvolvimento web fullstack.
 
 Como um trabalho individual foi muito gratificante realizar esse projeto,
-mas confesso que sou time Redux. E sim, o maior desafio desse projeto foi gerenciar 
-o estado global da aplicação com o Context.
+mas confesso que sou time Redux. E sim, o maior desafio desse projeto foi gerenciar o estado geral da aplicação com a Context API 
+
 ------
 
 # Habilidades testadas no projeto
