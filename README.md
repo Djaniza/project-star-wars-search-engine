@@ -1,4 +1,4 @@
-### Sobre o projeto
+# Sobre o projeto
   
 Esse foi o projeto que encerrou o módulo de Context API e React Hooks
 do curso de desenvolvimento web fullstack.
@@ -8,7 +8,7 @@ mas confesso que sou time Redux. E sim, o maior desafio desse projeto foi gerenc
 
 ------
 
-# Habilidades testadas no projeto
+### Habilidades testadas no projeto
 
 * Utilizar a _Context API_ do **React** para gerenciar estado.
 * Utilizar o _React Hook useState_;
@@ -18,7 +18,7 @@ mas confesso que sou time Redux. E sim, o maior desafio desse projeto foi gerenc
 
 ---
 
-# Requisitos avaliados no projeto
+### Requisitos avaliados no projeto
 
  1 - Faça uma requisição para o endpoint `/planets` da API de Star Wars e preencha uma tabela com os dados retornados, com exceção dos da coluna `residents`
 
