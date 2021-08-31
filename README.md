@@ -1,4 +1,4 @@
-## Sobre o projeto
+### Sobre o projeto
   
 Esse foi o projeto que encerrou o módulo de Context API e React Hooks
 do curso de desenvolvimento web fullstack.
@@ -20,15 +20,15 @@ mas confesso que sou time Redux. E sim, o maior desafio desse projeto foi gerenc
 
 # Requisitos avaliados no projeto
 
-# 1 - Faça uma requisição para o endpoint `/planets` da API de Star Wars e preencha uma tabela com os dados retornados, com exceção dos da coluna `residents`
+ 1 - Faça uma requisição para o endpoint `/planets` da API de Star Wars e preencha uma tabela com os dados retornados, com exceção dos da coluna `residents`
 
-# 2 - Filtre a tabela através de um texto, inserido num *campo de texto*, exibindo somente os planetas cujos nomes incluam o texto digitado
+ 2 - Filtre a tabela através de um texto, inserido num *campo de texto*, exibindo somente os planetas cujos nomes incluam o texto digitado
 
-# 3 - Crie um filtro para valores numéricos
+ 3 - Crie um filtro para valores numéricos
 
-# 4 - Não utilize filtros repetidos
+ 4 - Não utilize filtros repetidos
 
-# 5 - Apague o filtro de valores numéricos e desfaça as filtragens dos dados da tabela ao clicar no ícone de `X` de um dos filtros
+ 5 - Apague o filtro de valores numéricos e desfaça as filtragens dos dados da tabela ao clicar no ícone de `X` de um dos filtros
 
-# 6 - Ordene as colunas de forma ascendente ou descendente
+ 6 - Ordene as colunas de forma ascendente ou descendente
 
